@@ -1,2 +1,2 @@
-from Affine import Affine
-from Bezier import interpolate as bezier
+from .Affine import Affine
+from .Bezier import interpolate as bezier
